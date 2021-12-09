@@ -1,1 +1,1 @@
-# simple-tasks-app-vue-conditionals-lists
+# learning-goals-app-vue-conditionals-lists
