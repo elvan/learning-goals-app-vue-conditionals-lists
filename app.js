@@ -2,7 +2,12 @@ const app = Vue.createApp({
   data() {
     return {
       enteredGoalValue: '',
-      goals: []
+      goals: [
+        'Learn HTML and CSS',
+        'Learn JavaScript',
+        'Learn Vue.js',
+        'Learn Nuxt.js'
+      ]
     };
   },
 
